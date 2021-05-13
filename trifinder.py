@@ -121,9 +121,6 @@ def main():
         print(triarray[i])    
     print(sum) #8294
 
-
-
-
 def removefirstdigit(number):
     strnumber = str(number)
     if strnumber[0] == "0":
